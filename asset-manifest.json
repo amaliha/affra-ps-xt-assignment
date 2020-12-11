@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/affra-ps-xt-assignment/static/css/main.28ade1d3.chunk.css",
+    "main.js": "/affra-ps-xt-assignment/static/js/main.90c01483.chunk.js",
+    "main.js.map": "/affra-ps-xt-assignment/static/js/main.90c01483.chunk.js.map",
+    "runtime-main.js": "/affra-ps-xt-assignment/static/js/runtime-main.2df96fec.js",
+    "runtime-main.js.map": "/affra-ps-xt-assignment/static/js/runtime-main.2df96fec.js.map",
+    "static/js/2.650917ce.chunk.js": "/affra-ps-xt-assignment/static/js/2.650917ce.chunk.js",
+    "static/js/2.650917ce.chunk.js.map": "/affra-ps-xt-assignment/static/js/2.650917ce.chunk.js.map",
+    "static/js/3.7ecb6355.chunk.js": "/affra-ps-xt-assignment/static/js/3.7ecb6355.chunk.js",
+    "static/js/3.7ecb6355.chunk.js.map": "/affra-ps-xt-assignment/static/js/3.7ecb6355.chunk.js.map",
+    "index.html": "/affra-ps-xt-assignment/index.html",
+    "static/css/main.28ade1d3.chunk.css.map": "/affra-ps-xt-assignment/static/css/main.28ade1d3.chunk.css.map",
+    "static/js/2.650917ce.chunk.js.LICENSE.txt": "/affra-ps-xt-assignment/static/js/2.650917ce.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2df96fec.js",
+    "static/js/2.650917ce.chunk.js",
+    "static/css/main.28ade1d3.chunk.css",
+    "static/js/main.90c01483.chunk.js"
+  ]
+}
